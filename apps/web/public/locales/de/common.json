@@ -2548,6 +2548,80 @@
       ]
     }
   },
+  "partners": {
+    "meta": {
+      "title": "Partner-Ressourcen | Auf Solana aufbauen",
+      "description": "Alles, was Sie brauchen, um Finanzinfrastruktur auf Solana aufzubauen. Technische Leitfäden, Dokumentation und Ressourcen für institutionelle Partner."
+    },
+    "hero": {
+      "title": "Finanzinfrastruktur auf Solana aufbauen",
+      "subtitle": "Die leistungsstärkste Blockchain der Welt für institutionelle Finanzanwendungen. Von der Tokenisierung bis zur Abwicklung bietet Solana die Infrastruktur, die Sie benötigen.",
+      "reportEyebrow": "Partner-Ressourcen",
+      "reportDescription": "Erhalten Sie Zugang zu technischen Leitfäden, Dokumentation und Support für das Bauen auf Solana.",
+      "emailCta": "Kontaktieren Sie uns",
+      "stats": {
+        "0": {
+          "value": "65.000+",
+          "label": "Transaktionen pro Sekunde"
+        },
+        "1": {
+          "value": "400 ms",
+          "label": "Blockzeit"
+        },
+        "2": {
+          "value": "0,00025 $",
+          "label": "Durchschnittliche Transaktions-Fee"
+        }
+      }
+    },
+    "features": {
+      "title": "<light>Warum auf</light> Solana aufbauen?",
+      "description": "Solana kombiniert die Geschwindigkeit, Kosteneffizienz und Zuverlässigkeit, die Finanzinstitute benötigen. Mit nativer Unterstützung für Compliance-Funktionen durch Token Extensions, atomarer Abwicklung und kampferprobter Infrastruktur, die täglich Milliarden an Volumen verarbeitet, ist Solana die Plattform der Wahl für die weltweit führenden Finanzinstitute."
+    },
+    "solutions": {
+      "0": {
+        "title": "Tokenisierung",
+        "description": "Tokenisieren Sie jeden Vermögenswert mit institutioneller Compliance."
+      },
+      "1": {
+        "title": "Stablecoins",
+        "description": "Starten Sie Ihren eigenen Stablecoin mit integrierter Compliance."
+      },
+      "2": {
+        "title": "Institutionelle Zahlungen",
+        "description": "Bewegen Sie Geld weltweit mit nahezu null Fee."
+      },
+      "3": {
+        "title": "Token Extensions",
+        "description": "Erweiterte Compliance- und Programmierbarkeits-Features."
+      },
+      "title": "Lösungsbereiche",
+      "description": "Erkunden Sie unsere umfassenden Lösungen für institutionelle Anwendungsfälle."
+    },
+    "guides": {
+      "items": {
+        "dvp": {},
+        "nav-strikes": {}
+      }
+    },
+    "faq": {
+      "items": {
+        "tokenization": {},
+        "custody": {},
+        "compliance": {}
+      }
+    },
+    "resources": {
+      "items": {
+        "spl": {},
+        "docs": {},
+        "token-extensions": {},
+        "grants": {}
+      }
+    },
+    "cta": {},
+    "contact": {}
+  },
   "institutional-payments": {
     "meta": {
       "title": "Kostengünstige, sofortige Zahlungen",
